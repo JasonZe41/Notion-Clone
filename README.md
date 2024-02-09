@@ -1,4 +1,4 @@
-This is a Notion Clone project, based on the original repository (https://github.com/vercel/next.js/tree/canary/packages/create-next-app)). It aims to replicate some of the core functionalities of Notion, with additional features and improvements added.
+This is a Notion Clone project, based on the original repository (https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It aims to replicate some of the core functionalities of Notion, with additional features and improvements added.
 
 ## Getting Started
 
